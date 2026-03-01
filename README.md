@@ -182,7 +182,7 @@ Programa de Apoyo de Mejora de la Calidad 2022
 **Actualización:** Marzo 2026  
 **Basado en:** Criterios oficiales SALUD Aragón 2022
 
----
+---    
 
 ## 🔗 Enlaces Rápidos
 
